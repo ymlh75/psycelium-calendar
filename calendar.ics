@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-2499@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20240704T180000
 DTEND;TZID=Europe/Paris:20240704T200000
 SUMMARY:Session live zoom (gratuite) : « Ne laisse plus le mental gâcher 
@@ -41,7 +41,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-1556@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20241004
 DTEND;VALUE=DATE:20241008
 SUMMARY:Séminaire intensif « Qui suis-je ? »  à 1h de Paris - 350 €
@@ -55,7 +55,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/seminaire-intensi
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-2330@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20241020
 DTEND;VALUE=DATE:20241021
 SUMMARY:Journée Zoom  « Introduction à la Clarification du Mental »
@@ -68,7 +68,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-2612@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20241228
 DTEND;VALUE=DATE:20250102
 SUMMARY:Réveillon tantrique “Récapitulation de vie et renaissance” à
@@ -82,7 +82,7 @@ URL:https://psycelium.org/evenements/tantra/27-decembre-1er-janvier-2025-re
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-2755@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20250129
 DTEND;VALUE=DATE:20250203
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? » en Provence - 450 
@@ -96,7 +96,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/29-janvier-2-fevr
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5299@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260427
 SUMMARY:Stage Renaissance Spanda : « La Voix et le Souffle »
@@ -108,7 +108,7 @@ URL:https://psycelium.org/evenements/souffle/27-29-avril-2026-stage-spanda-
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5269@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20260427T180000
 DTEND;TZID=Europe/Paris:20260427T210000
 SUMMARY:Soirée Dyades Thématiques : Clarifier sa relation à la Mort
@@ -121,7 +121,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5117@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260505
 SUMMARY:Stage Tantra avancé : « Faire de sa vie une offrande : le Tantra 
@@ -136,7 +136,7 @@ URL:https://psycelium.org/evenements/stages/30-avril-4-mai-2026-stage-tantr
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4846@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20260506T180000
 DTEND;TZID=Europe/Paris:20260506T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -151,7 +151,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4473@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260518
 SUMMARY:Séminaire intensif Zoom « Clarifiez votre relation à l’argent 
@@ -165,7 +165,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4850@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20260520T180000
 DTEND;TZID=Europe/Paris:20260520T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -180,7 +180,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4953@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20260610T180000
 DTEND;TZID=Europe/Paris:20260610T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -195,7 +195,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4609@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260622
 SUMMARY:Séminaire Zoom « Ouvrir les Canaux : Intuition\, Médiumnité et 
@@ -210,7 +210,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4954@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;TZID=Europe/Paris:20260624T180000
 DTEND;TZID=Europe/Paris:20260624T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -225,7 +225,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4601@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:Séminaire Zoom « Intensif Karma Clearing - Se libérer de la culp
@@ -240,7 +240,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-4082@psycelium.org
-DTSTAMP:20260506T081501Z
+DTSTAMP:20260506T101501Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260812
 SUMMARY:Séminaire intensif Tantra « Qui suis-je ? » 7 jours\, à Houdan\
