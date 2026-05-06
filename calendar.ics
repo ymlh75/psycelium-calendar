@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Psycelium//Calendrier Evenements//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Psycelium - Evenements
+X-WR-CALDESC:Stages, seminaires, dyades et sessions Sadhana de psycelium.or
+ g
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:psycelium-2499@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20240704T180000
+DTEND;TZID=Europe/Paris:20240704T200000
+SUMMARY:Session live zoom (gratuite) : « Ne laisse plus le mental gâcher 
+ ta vie ! »
+DESCRIPTION:Session live zoom (gratuite) : « Ne laisse plus le mental gâc
+ her ta vie ! »\n\nPlus d'infos : https://psycelium.org/evenements/clarifi
+ cation/4-juillet-2024-18h-session-live-zoom-gratuite-ne-laisse-plus-le-men
+ tal-gacher-ta-vie/
+URL:https://psycelium.org/evenements/clarification/4-juillet-2024-18h-sessi
+ on-live-zoom-gratuite-ne-laisse-plus-le-mental-gacher-ta-vie/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-1556@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241008
+SUMMARY:Séminaire intensif « Qui suis-je ? »  à 1h de Paris - 350 €
+DESCRIPTION:Séminaire intensif « Qui suis-je ? »  à 1h de Paris - 350 
+ €\n\nPlus d'infos : https://psycelium.org/evenements/seminaires-intensif
+ s/seminaire-intensif-vers-leveil-3-jours-en-residentiel-a-50-minutes-de-pa
+ ris-avec-yves-marie-lhour/
+URL:https://psycelium.org/evenements/seminaires-intensifs/seminaire-intensi
+ f-vers-leveil-3-jours-en-residentiel-a-50-minutes-de-paris-avec-yves-marie
+ -lhour/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-2330@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20241020
+DTEND;VALUE=DATE:20241021
+SUMMARY:Journée Zoom  « Introduction à la Clarification du Mental »
+DESCRIPTION:Journée Zoom  « Introduction à la Clarification du Mental »
+ \n\nPlus d'infos : https://psycelium.org/evenements/clarification/journee-
+ zoom-session-dintroduction-a-la-clarification-du-mental/
+URL:https://psycelium.org/evenements/clarification/journee-zoom-session-din
+ troduction-a-la-clarification-du-mental/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-2612@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20250102
+SUMMARY:Réveillon tantrique “Récapitulation de vie et renaissance” à
+  Aix-en-Provence - 590€
+DESCRIPTION:Réveillon tantrique “Récapitulation de vie et renaissance
+ ” à Aix-en-Provence - 590€\n\nPlus d'infos : https://psycelium.org/ev
+ enements/tantra/27-decembre-1er-janvier-2025-reveillon-tantrique-recapitul
+ ation-de-vie-et-renaissance-500e/
+URL:https://psycelium.org/evenements/tantra/27-decembre-1er-janvier-2025-re
+ veillon-tantrique-recapitulation-de-vie-et-renaissance-500e/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-2755@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250203
+SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? » en Provence - 450 
+ €
+DESCRIPTION:Séminaire intensif 4 jours « Qui suis-je ? » en Provence - 4
+ 50 €\n\nPlus d'infos : https://psycelium.org/evenements/seminaires-inten
+ sifs/29-janvier-2-fevrier-2025-seminaire-intensif-4-jours-qui-suis-je-en-p
+ rovence-450-e-copie/
+URL:https://psycelium.org/evenements/seminaires-intensifs/29-janvier-2-fevr
+ ier-2025-seminaire-intensif-4-jours-qui-suis-je-en-provence-450-e-copie/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-5299@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+SUMMARY:Stage Renaissance Spanda : « La Voix et le Souffle »
+DESCRIPTION:Stage Renaissance Spanda : « La Voix et le Souffle »\n\nPlus 
+ d'infos : https://psycelium.org/evenements/souffle/27-29-avril-2026-stage-
+ spanda-la-voix-et-le-souffle/
+URL:https://psycelium.org/evenements/souffle/27-29-avril-2026-stage-spanda-
+ la-voix-et-le-souffle/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-5269@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20260427T180000
+DTEND;TZID=Europe/Paris:20260427T210000
+SUMMARY:Soirée Dyades Thématiques : Clarifier sa relation à la Mort
+DESCRIPTION:Soirée Dyades Thématiques : Clarifier sa relation à la Mort\
+ n\nPlus d'infos : https://psycelium.org/evenements/dyades-thematiques/27-a
+ vril-2026-soiree-dyades-thematiques-la-mort/
+URL:https://psycelium.org/evenements/dyades-thematiques/27-avril-2026-soire
+ e-dyades-thematiques-la-mort/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-5117@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260505
+SUMMARY:Stage Tantra avancé : « Faire de sa vie une offrande : le Tantra 
+ de la dévotion absolue » (Castres)
+DESCRIPTION:Stage Tantra avancé : « Faire de sa vie une offrande : le Tan
+ tra de la dévotion absolue » (Castres)\n\nPlus d'infos : https://psyceli
+ um.org/evenements/stages/30-avril-4-mai-2026-stage-tantra-avance-faire-de-
+ sa-vie-une-offrande-le-tantra-de-la-devotion-absolue-castres/
+URL:https://psycelium.org/evenements/stages/30-avril-4-mai-2026-stage-tantr
+ a-avance-faire-de-sa-vie-une-offrande-le-tantra-de-la-devotion-absolue-cas
+ tres/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4846@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20260506T180000
+DTEND;TZID=Europe/Paris:20260506T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
+ ntérieur
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
+ nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
+ es/11-fevrier-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au
+ -chemin-interieur/
+URL:https://psycelium.org/evenements/conferences/11-fevrier-zoom-18h-20h-sa
+ dhana-groupe-daccompagnement-et-de-soutien-au-chemin-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4473@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+SUMMARY:Séminaire intensif Zoom « Clarifiez votre relation à l’argent 
+ ! »
+DESCRIPTION:Séminaire intensif Zoom « Clarifiez votre relation à l’arg
+ ent ! »\n\nPlus d'infos : https://psycelium.org/evenements/clarification/
+ seminaire-ameliore-sa-relation-a-largent/
+URL:https://psycelium.org/evenements/clarification/seminaire-ameliore-sa-re
+ lation-a-largent/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4850@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20260520T180000
+DTEND;TZID=Europe/Paris:20260520T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
+ ntérieur
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
+ nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
+ es/20-mai-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-che
+ min-interieur/
+URL:https://psycelium.org/evenements/conferences/20-mai-zoom-18h-20h-sadhan
+ a-groupe-daccompagnement-et-de-soutien-au-chemin-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4953@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20260610T180000
+DTEND;TZID=Europe/Paris:20260610T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
+ ntérieur
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
+ nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
+ es/10-juin-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-ch
+ eminement-interieur/
+URL:https://psycelium.org/evenements/conferences/10-juin-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4609@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+SUMMARY:Séminaire Zoom « Ouvrir les Canaux : Intuition\, Médiumnité et 
+ Channeling »
+DESCRIPTION:Séminaire Zoom « Ouvrir les Canaux : Intuition\, Médiumnité
+  et Channeling »\n\nPlus d'infos : https://psycelium.org/evenements/clari
+ fication/20-21-juin-2026-seminaire-zoom-ouvrir-les-canaux-intuition-medium
+ nite-et-channeling/
+URL:https://psycelium.org/evenements/clarification/20-21-juin-2026-seminair
+ e-zoom-ouvrir-les-canaux-intuition-mediumnite-et-channeling/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4954@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;TZID=Europe/Paris:20260624T180000
+DTEND;TZID=Europe/Paris:20260624T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
+ ntérieur
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
+ nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
+ es/24-juin-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-ch
+ eminement-interieur/
+URL:https://psycelium.org/evenements/conferences/24-juin-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4601@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260629
+SUMMARY:Séminaire Zoom « Intensif Karma Clearing - Se libérer de la culp
+ abilité »
+DESCRIPTION:Séminaire Zoom « Intensif Karma Clearing - Se libérer de la 
+ culpabilité »\n\nPlus d'infos : https://psycelium.org/evenements/clarifi
+ cation/4-5-avril-2026-seminaire-zoom-intensif-karma-clearing-se-liberer-de
+ -la-culpabilite-270-e/
+URL:https://psycelium.org/evenements/clarification/4-5-avril-2026-seminaire
+ -zoom-intensif-karma-clearing-se-liberer-de-la-culpabilite-270-e/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-4082@psycelium.org
+DTSTAMP:20260506T081501Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260812
+SUMMARY:Séminaire intensif Tantra « Qui suis-je ? » 7 jours\, à Houdan\
+ , à 1h de Paris
+DESCRIPTION:Séminaire intensif Tantra « Qui suis-je ? » 7 jours\, à Hou
+ dan\, à 1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/se
+ minaires-intensifs/4-11-aout-2026-seminaire-intensif-7-jours-qui-suis-je-a
+ -houdan-a-1h-de-paris-780-e/
+URL:https://psycelium.org/evenements/seminaires-intensifs/4-11-aout-2026-se
+ minaire-intensif-7-jours-qui-suis-je-a-houdan-a-1h-de-paris-780-e/
+END:VEVENT
+END:VCALENDAR

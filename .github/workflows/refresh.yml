@@ -1,0 +1,32 @@
+name: Refresh calendar
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch latest ICS from source
+        run: |
+          curl -fsS -A "psycelium-calendar-bot" \
+            "https://edit.psycelium.com/calendrier.ics" \
+            -o calendar.ics
+          ls -la calendar.ics
+          head -10 calendar.ics
+      - name: Commit and push if changed
+        run: |
+          git config user.name "psycelium-bot"
+          git config user.email "bot@psycelium.org"
+          if git diff --quiet calendar.ics; then
+            echo "No changes."
+          else
+            git add calendar.ics
+            git commit -m "chore: refresh calendar $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
