@@ -12,13 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch latest ICS from source
+      - name: Fetch latest ICS from source + add UTF-8 BOM
         run: |
           curl -fsS -A "psycelium-calendar-bot" \
             "https://edit.psycelium.com/calendrier.ics" \
-            -o calendar.ics
+            -o calendar-raw.ics
+          printf '\xef\xbb\xbf' > calendar.ics
+          cat calendar-raw.ics >> calendar.ics
+          rm calendar-raw.ics
           ls -la calendar.ics
-          head -10 calendar.ics
+          head -c 30 calendar.ics | xxd
       - name: Commit and push if changed
         run: |
           git config user.name "psycelium-bot"
