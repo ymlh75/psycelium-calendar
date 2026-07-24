@@ -26,21 +26,21 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-4082@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260812
-SUMMARY:Séminaire intensif « Qui suis-je ? » 7 jours\, à Houdan\, à 1h
-  de Paris
-DESCRIPTION:Séminaire intensif « Qui suis-je ? » 7 jours\, à Houdan\, 
- à 1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/seminair
- es-intensifs/4-11-aout-2026-seminaire-intensif-7-jours-qui-suis-je-a-houda
- n-a-1h-de-paris-780-e/
+SUMMARY:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à 1h 
+ de Paris
+DESCRIPTION:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à
+  1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/seminaires
+ -intensifs/4-11-aout-2026-seminaire-intensif-7-jours-qui-suis-je-a-houdan-
+ a-1h-de-paris-780-e/
 URL:https://psycelium.org/evenements/seminaires-intensifs/4-11-aout-2026-se
  minaire-intensif-7-jours-qui-suis-je-a-houdan-a-1h-de-paris-780-e/
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5768@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;TZID=Europe/Paris:20260812T180000
 DTEND;TZID=Europe/Paris:20260812T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -55,7 +55,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5769@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;TZID=Europe/Paris:20260826T180000
 DTEND;TZID=Europe/Paris:20260826T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -70,7 +70,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5770@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;TZID=Europe/Paris:20260909T180000
 DTEND;TZID=Europe/Paris:20260909T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -85,7 +85,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5771@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -100,7 +100,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260724T061502Z
+DTSTAMP:20260724T091502Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
