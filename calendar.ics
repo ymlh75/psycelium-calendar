@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-4082@psycelium.org
-DTSTAMP:20260812T111502Z
+DTSTAMP:20260812T131503Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260812
 SUMMARY:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à 1h 
@@ -39,23 +39,8 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/4-11-aout-2026-se
  minaire-intensif-7-jours-qui-suis-je-a-houdan-a-1h-de-paris-780-e/
 END:VEVENT
 BEGIN:VEVENT
-UID:psycelium-5768@psycelium.org
-DTSTAMP:20260812T111502Z
-DTSTART;TZID=Europe/Paris:20260812T180000
-DTEND;TZID=Europe/Paris:20260812T200000
-SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
- ntérieur
-DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
- nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
- es/12-aout-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-ch
- eminement-interieur/
-URL:https://psycelium.org/evenements/conferences/12-aout-zoom-18h-20h-sadha
- na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
-LOCATION:Zoom
-END:VEVENT
-BEGIN:VEVENT
 UID:psycelium-5769@psycelium.org
-DTSTAMP:20260812T111502Z
+DTSTAMP:20260812T131503Z
 DTSTART;TZID=Europe/Paris:20260826T180000
 DTEND;TZID=Europe/Paris:20260826T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -70,7 +55,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5770@psycelium.org
-DTSTAMP:20260812T111502Z
+DTSTAMP:20260812T131503Z
 DTSTART;TZID=Europe/Paris:20260909T180000
 DTEND;TZID=Europe/Paris:20260909T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -85,7 +70,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5771@psycelium.org
-DTSTAMP:20260812T111502Z
+DTSTAMP:20260812T131503Z
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -100,7 +85,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260812T111502Z
+DTSTAMP:20260812T131503Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
@@ -111,5 +96,47 @@ DESCRIPTION:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à
  dan-a-1h-de-paris/
 URL:https://psycelium.org/evenements/seminaires-intensifs/23-27-octobre-202
  6-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6125@psycelium.org
+DTSTAMP:20260812T131503Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270405
+SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
+ de Paris
+DESCRIPTION:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à
+  1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/seminaires
+ -intensifs/31-mars-4-avril-2027-seminaire-intensif-4-jours-qui-suis-je-a-h
+ oudan-a-1h-de-paris/
+URL:https://psycelium.org/evenements/seminaires-intensifs/31-mars-4-avril-2
+ 027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6126@psycelium.org
+DTSTAMP:20260812T131503Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270811
+SUMMARY:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à 1h 
+ de Paris
+DESCRIPTION:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à
+  1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/seminaires
+ -intensifs/3-10-aout-2027-retraite-intensive-qui-suis-je-7-jours-a-houdan-
+ a-1h-de-paris/
+URL:https://psycelium.org/evenements/seminaires-intensifs/3-10-aout-2027-re
+ traite-intensive-qui-suis-je-7-jours-a-houdan-a-1h-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6127@psycelium.org
+DTSTAMP:20260812T131503Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271004
+SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
+ de Paris
+DESCRIPTION:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à
+  1h de Paris\n\nPlus d'infos : https://psycelium.org/evenements/seminaires
+ -intensifs/29-septembre-3-octobre-2027-seminaire-intensif-4-jours-qui-suis
+ -je-a-houdan-a-1h-de-paris/
+URL:https://psycelium.org/evenements/seminaires-intensifs/29-septembre-3-oc
+ tobre-2027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
 END:VEVENT
 END:VCALENDAR
