@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-5769@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;TZID=Europe/Paris:20260826T180000
 DTEND;TZID=Europe/Paris:20260826T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -41,7 +41,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5770@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;TZID=Europe/Paris:20260909T180000
 DTEND;TZID=Europe/Paris:20260909T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -56,7 +56,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5771@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -71,7 +71,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
@@ -85,7 +85,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/23-27-octobre-202
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6125@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270405
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
@@ -99,7 +99,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/31-mars-4-avril-2
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6126@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270811
 SUMMARY:Retraite intensive « Qui suis-je ? » 7 jours\, à Houdan\, à 1h 
@@ -113,7 +113,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/3-10-aout-2027-re
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6127@psycelium.org
-DTSTAMP:20260816T101502Z
+DTSTAMP:20260816T111502Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271004
 SUMMARY:Séminaire intensif 4 jours « Qui suis-je ? »  à Houdan\, à 1h 
