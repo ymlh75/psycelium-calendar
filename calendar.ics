@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-6129@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20260922T193000
 DTEND;TZID=Europe/Paris:20260922T223000
 SUMMARY:L’Expérience Dyade : venez expérimenter la technique  des Retra
@@ -40,7 +40,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5771@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -55,7 +55,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6335@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20261007T180000
 DTEND;TZID=Europe/Paris:20261007T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -70,7 +70,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6336@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20261021T180000
 DTEND;TZID=Europe/Paris:20261021T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -85,7 +85,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -97,7 +97,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/23-27-octobre-202
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6337@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20261104T180000
 DTEND;TZID=Europe/Paris:20261104T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -112,7 +112,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6338@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -127,7 +127,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6293@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:Breathwork et Clarification - stage résidentiel de week-end en Nor
@@ -141,7 +141,7 @@ URL:https://psycelium.org/evenements/clarification/27-29-novembre-2026-brea
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6411@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270319
 SUMMARY:Formation à la Clarification Relationnelle® - Module 1 « Fondati
@@ -155,7 +155,7 @@ URL:https://psycelium.org/evenements/clarification/13-18-mars-2027-formatio
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6125@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270405
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -167,7 +167,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/31-mars-4-avril-2
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6412@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270614
 SUMMARY:Formation à la Clarification Relationnelle® - Module 2 « Fronti
@@ -181,7 +181,7 @@ URL:https://psycelium.org/evenements/clarification/8-13-juin-2027-formation
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6126@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270811
 SUMMARY:Retraite intensive 7 jours\, à Houdan\, à 1h de Paris
@@ -193,7 +193,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/3-10-aout-2027-re
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6413@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270920
 SUMMARY:Formation à la Clarification Relationnelle® - Module 3 « Clarifi
@@ -208,7 +208,7 @@ URL:https://psycelium.org/evenements/clarification/14-19-septembre-2027-for
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6127@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271004
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -221,7 +221,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/29-septembre-3-oc
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6414@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20271130
 DTEND;VALUE=DATE:20271206
 SUMMARY:Formation à la Clarification Relationnelle® - Module 4 « Couple 
@@ -236,7 +236,7 @@ URL:https://psycelium.org/evenements/clarification/30-novembre-5-decembre-2
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6415@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280313
 SUMMARY:Formation à la Clarification Relationnelle® - Module 5 « Mémoir
@@ -252,7 +252,7 @@ URL:https://psycelium.org/evenements/clarification/7-12-mars-2028-formation
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6416@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20280606
 DTEND;VALUE=DATE:20280612
 SUMMARY:Formation à la Clarification Relationnelle® - Module 6 « Honte\,
@@ -267,7 +267,7 @@ URL:https://psycelium.org/evenements/clarification/6-11-juin-2028-formation
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6417@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20280919
 DTEND;VALUE=DATE:20280925
 SUMMARY:Formation à la Clarification Relationnelle® - Module 7 « Croyanc
@@ -282,7 +282,7 @@ URL:https://psycelium.org/evenements/clarification/19-24-septembre-2028-for
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6418@psycelium.org
-DTSTAMP:20260919T051502Z
+DTSTAMP:20260919T101502Z
 DTSTART;VALUE=DATE:20281128
 DTEND;VALUE=DATE:20281204
 SUMMARY:Formation à la Clarification Relationnelle® - Module 8 « Posture
