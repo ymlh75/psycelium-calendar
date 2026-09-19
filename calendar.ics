@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-6129@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20260922T193000
 DTEND;TZID=Europe/Paris:20260922T223000
 SUMMARY:L’Expérience Dyade : venez expérimenter la technique  des Retra
@@ -40,7 +40,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5771@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -55,7 +55,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6335@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20261007T180000
 DTEND;TZID=Europe/Paris:20261007T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -70,7 +70,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6336@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20261021T180000
 DTEND;TZID=Europe/Paris:20261021T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -85,7 +85,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -97,7 +97,7 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/23-27-octobre-202
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6337@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20261104T180000
 DTEND;TZID=Europe/Paris:20261104T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -112,7 +112,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6338@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T200000
 SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
@@ -127,7 +127,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6293@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:Breathwork et Clarification - stage résidentiel de week-end en Nor
@@ -140,8 +140,22 @@ URL:https://psycelium.org/evenements/clarification/27-29-novembre-2026-brea
  thwork-et-clarification-stage-residentiel-normandie/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-6411@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270319
+SUMMARY:Formation à la Clarification Relationnelle® - Module 1 « Fondati
+ ons » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 1 « Fon
+ dations » - Drôme\n\nPlus d'infos : https://psycelium.org/evenements/cla
+ rification/13-18-mars-2027-formation-a-la-clarification-relationnelle-modu
+ le-1-fondations-drome/
+URL:https://psycelium.org/evenements/clarification/13-18-mars-2027-formatio
+ n-a-la-clarification-relationnelle-module-1-fondations-drome/
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6125@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270405
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -152,8 +166,22 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/31-mars-4-avril-2
  027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-6412@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270614
+SUMMARY:Formation à la Clarification Relationnelle® - Module 2 « Fronti
+ ères et limites » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 2 « Fro
+ ntières et limites » - Drôme\n\nPlus d'infos : https://psycelium.org/ev
+ enements/clarification/8-13-juin-2027-formation-a-la-clarification-relatio
+ nnelle-module-2-frontieres-et-limites-drome/
+URL:https://psycelium.org/evenements/clarification/8-13-juin-2027-formation
+ -a-la-clarification-relationnelle-module-2-frontieres-et-limites-drome/
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6126@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270811
 SUMMARY:Retraite intensive 7 jours\, à Houdan\, à 1h de Paris
@@ -164,8 +192,23 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/3-10-aout-2027-re
  traite-intensive-qui-suis-je-7-jours-a-houdan-a-1h-de-paris/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-6413@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270920
+SUMMARY:Formation à la Clarification Relationnelle® - Module 3 « Clarifi
+ er ses problèmes actuels » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 3 « Cla
+ rifier ses problèmes actuels » - Drôme\n\nPlus d'infos : https://psycel
+ ium.org/evenements/clarification/14-19-septembre-2027-formation-a-la-clari
+ fication-relationnelle-module-3-clarifier-ses-problemes-actuels-drome/
+URL:https://psycelium.org/evenements/clarification/14-19-septembre-2027-for
+ mation-a-la-clarification-relationnelle-module-3-clarifier-ses-problemes-a
+ ctuels-drome/
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6127@psycelium.org
-DTSTAMP:20260918T221502Z
+DTSTAMP:20260919T001502Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271004
 SUMMARY:Retraite intensive 4 jours à Houdan\, à 1h de Paris
@@ -175,5 +218,81 @@ DESCRIPTION:Retraite intensive 4 jours à Houdan\, à 1h de Paris\n\nPlus d
  aris/
 URL:https://psycelium.org/evenements/seminaires-intensifs/29-septembre-3-oc
  tobre-2027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6414@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271206
+SUMMARY:Formation à la Clarification Relationnelle® - Module 4 « Couple 
+ et liens intimes » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 4 « Cou
+ ple et liens intimes » - Drôme\n\nPlus d'infos : https://psycelium.org/e
+ venements/clarification/30-novembre-5-decembre-2027-formation-a-la-clarifi
+ cation-relationnelle-module-4-couple-et-liens-intimes-drome/
+URL:https://psycelium.org/evenements/clarification/30-novembre-5-decembre-2
+ 027-formation-a-la-clarification-relationnelle-module-4-couple-et-liens-in
+ times-drome/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6415@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280313
+SUMMARY:Formation à la Clarification Relationnelle® - Module 5 « Mémoir
+ es du passé\, donner et recevoir » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 5 « Mé
+ moires du passé\, donner et recevoir » - Drôme\n\nPlus d'infos : https:
+ //psycelium.org/evenements/clarification/7-12-mars-2028-formation-a-la-cla
+ rification-relationnelle-module-5-memoires-du-passe-donner-et-recevoir-dro
+ me/
+URL:https://psycelium.org/evenements/clarification/7-12-mars-2028-formation
+ -a-la-clarification-relationnelle-module-5-memoires-du-passe-donner-et-rec
+ evoir-drome/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6416@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280612
+SUMMARY:Formation à la Clarification Relationnelle® - Module 6 « Honte\,
+  culpabilité\, héritages » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 6 « Hon
+ te\, culpabilité\, héritages » - Drôme\n\nPlus d'infos : https://psyce
+ lium.org/evenements/clarification/6-11-juin-2028-formation-a-la-clarificat
+ ion-relationnelle-module-6-honte-culpabilite-heritages-drome/
+URL:https://psycelium.org/evenements/clarification/6-11-juin-2028-formation
+ -a-la-clarification-relationnelle-module-6-honte-culpabilite-heritages-dro
+ me/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6417@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280925
+SUMMARY:Formation à la Clarification Relationnelle® - Module 7 « Croyanc
+ es et identité » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 7 « Cro
+ yances et identité » - Drôme\n\nPlus d'infos : https://psycelium.org/ev
+ enements/clarification/19-24-septembre-2028-formation-a-la-clarification-r
+ elationnelle-module-7-croyances-et-identite-drome/
+URL:https://psycelium.org/evenements/clarification/19-24-septembre-2028-for
+ mation-a-la-clarification-relationnelle-module-7-croyances-et-identite-dro
+ me/
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-6418@psycelium.org
+DTSTAMP:20260919T001502Z
+DTSTART;VALUE=DATE:20281128
+DTEND;VALUE=DATE:20281204
+SUMMARY:Formation à la Clarification Relationnelle® - Module 8 « Posture
+  du Clarificateur » - Drôme
+DESCRIPTION:Formation à la Clarification Relationnelle® - Module 8 « Pos
+ ture du Clarificateur » - Drôme\n\nPlus d'infos : https://psycelium.org/
+ evenements/clarification/28-novembre-3-decembre-2028-formation-a-la-clarif
+ ication-relationnelle-module-8-posture-du-clarificateur-drome/
+URL:https://psycelium.org/evenements/clarification/28-novembre-3-decembre-2
+ 028-formation-a-la-clarification-relationnelle-module-8-posture-du-clarifi
+ cateur-drome/
 END:VEVENT
 END:VCALENDAR
