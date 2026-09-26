@@ -26,22 +26,20 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:psycelium-6335@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261007T180000
 DTEND;TZID=Europe/Paris:20261007T200000
-SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
- ntérieur
-DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
- nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
- es/7-octobre-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-
- cheminement-interieur/
-URL:https://psycelium.org/evenements/conferences/7-octobre-zoom-18h-20h-sad
- hana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/7-octobre-zoom-18h-20h-
+ sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/7-octobre-zoom-18h-20h-sadhana
+ -groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6773@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261020T193000
 DTEND;TZID=Europe/Paris:20261020T223000
 SUMMARY:L’Expérience Dyade : venez expérimenter la technique des Sémin
@@ -56,22 +54,20 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6336@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261021T180000
 DTEND;TZID=Europe/Paris:20261021T200000
-SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
- ntérieur
-DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
- nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
- es/21-octobre-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au
- -cheminement-interieur/
-URL:https://psycelium.org/evenements/conferences/21-octobre-zoom-18h-20h-sa
- dhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/21-octobre-zoom-18h-20h
+ -sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/21-octobre-zoom-18h-20h-sadhan
+ a-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-5808@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Séminaire intensif 4 jours à Houdan\, à 1h de Paris
@@ -83,37 +79,33 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/23-27-octobre-202
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6337@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261104T180000
 DTEND;TZID=Europe/Paris:20261104T200000
-SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
- ntérieur
-DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
- nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
- es/4-novembre-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au
- -cheminement-interieur/
-URL:https://psycelium.org/evenements/conferences/4-novembre-zoom-18h-20h-sa
- dhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/4-novembre-zoom-18h-20h
+ -sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/4-novembre-zoom-18h-20h-sadhan
+ a-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6338@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T200000
-SUMMARY:Sādhana - Groupe d’accompagnement et de soutien au cheminement i
- ntérieur
-DESCRIPTION:Sādhana - Groupe d’accompagnement et de soutien au chemineme
- nt intérieur\n\nPlus d'infos : https://psycelium.org/evenements/conferenc
- es/18-novembre-zoom-18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-a
- u-cheminement-interieur/
-URL:https://psycelium.org/evenements/conferences/18-novembre-zoom-18h-20h-s
- adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/18-novembre-zoom-18h-20
+ h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/18-novembre-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6775@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;TZID=Europe/Paris:20261124T193000
 DTEND;TZID=Europe/Paris:20261124T223000
 SUMMARY:L’Expérience Dyade : venez expérimenter la technique des Sémin
@@ -128,7 +120,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6293@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:Breathwork et Clarification - stage résidentiel de week-end en Nor
@@ -141,8 +133,105 @@ URL:https://psycelium.org/evenements/clarification/27-29-novembre-2026-brea
  thwork-et-clarification-stage-residentiel-normandie/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7549@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20261202T180000
+DTEND;TZID=Europe/Paris:20261202T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/2-decembre-2026-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/2-decembre-2026-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7550@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20261216T180000
+DTEND;TZID=Europe/Paris:20261216T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/16-decembre-2026-zoom-1
+ 8h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interie
+ ur/
+URL:https://psycelium.org/evenements/sadhana/16-decembre-2026-zoom-18h-20h-
+ sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7551@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270106T180000
+DTEND;TZID=Europe/Paris:20270106T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/6-janvier-2027-zoom-18h
+ -20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur
+ /
+URL:https://psycelium.org/evenements/sadhana/6-janvier-2027-zoom-18h-20h-sa
+ dhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7552@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270120T180000
+DTEND;TZID=Europe/Paris:20270120T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/20-janvier-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/20-janvier-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7553@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270203T180000
+DTEND;TZID=Europe/Paris:20270203T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/3-fevrier-2027-zoom-18h
+ -20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur
+ /
+URL:https://psycelium.org/evenements/sadhana/3-fevrier-2027-zoom-18h-20h-sa
+ dhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7554@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270217T180000
+DTEND;TZID=Europe/Paris:20270217T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/17-fevrier-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/17-fevrier-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7555@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270303T180000
+DTEND;TZID=Europe/Paris:20270303T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/3-mars-2027-zoom-18h-20
+ h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/3-mars-2027-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6411@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270319
 SUMMARY:Formation à la Clarification Relationnelle® - Module 1 « Fondati
@@ -155,8 +244,21 @@ URL:https://psycelium.org/evenements/clarification/13-18-mars-2027-formatio
  n-a-la-clarification-relationnelle-module-1-fondations-drome/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7556@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270324T180000
+DTEND;TZID=Europe/Paris:20270324T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/24-mars-2027-zoom-18h-2
+ 0h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/24-mars-2027-zoom-18h-20h-sadh
+ ana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6125@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270405
 SUMMARY:Séminaire intensif 4 jours à Houdan\, à 1h de Paris
@@ -167,8 +269,73 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/31-mars-4-avril-2
  027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7557@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270407T180000
+DTEND;TZID=Europe/Paris:20270407T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/7-avril-2027-zoom-18h-2
+ 0h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/7-avril-2027-zoom-18h-20h-sadh
+ ana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7558@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270421T180000
+DTEND;TZID=Europe/Paris:20270421T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/21-avril-2027-zoom-18h-
+ 20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/21-avril-2027-zoom-18h-20h-sad
+ hana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7559@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270505T180000
+DTEND;TZID=Europe/Paris:20270505T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/5-mai-2027-zoom-18h-20h
+ -sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/5-mai-2027-zoom-18h-20h-sadhan
+ a-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7560@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270519T180000
+DTEND;TZID=Europe/Paris:20270519T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/19-mai-2027-zoom-18h-20
+ h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/19-mai-2027-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7561@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270602T180000
+DTEND;TZID=Europe/Paris:20270602T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/2-juin-2027-zoom-18h-20
+ h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/2-juin-2027-zoom-18h-20h-sadha
+ na-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6412@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270614
 SUMMARY:Formation à la Clarification Relationnelle® - Module 2 « Fronti
@@ -181,8 +348,35 @@ URL:https://psycelium.org/evenements/clarification/8-13-juin-2027-formation
  -a-la-clarification-relationnelle-module-2-frontieres-et-limites-drome/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7562@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270630T180000
+DTEND;TZID=Europe/Paris:20270630T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/30-juin-2027-zoom-18h-2
+ 0h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/30-juin-2027-zoom-18h-20h-sadh
+ ana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7563@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270728T180000
+DTEND;TZID=Europe/Paris:20270728T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/28-juillet-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/28-juillet-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6126@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270811
 SUMMARY:Séminaire intensif 7 jours\, à Houdan\, à 1h de Paris
@@ -193,8 +387,48 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/3-10-aout-2027-re
  traite-intensive-qui-suis-je-7-jours-a-houdan-a-1h-de-paris/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7564@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270811T180000
+DTEND;TZID=Europe/Paris:20270811T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/11-aout-2027-zoom-18h-2
+ 0h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/11-aout-2027-zoom-18h-20h-sadh
+ ana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7565@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270825T180000
+DTEND;TZID=Europe/Paris:20270825T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/25-aout-2027-zoom-18h-2
+ 0h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+URL:https://psycelium.org/evenements/sadhana/25-aout-2027-zoom-18h-20h-sadh
+ ana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7566@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270908T180000
+DTEND;TZID=Europe/Paris:20270908T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/8-septembre-2027-zoom-1
+ 8h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interie
+ ur/
+URL:https://psycelium.org/evenements/sadhana/8-septembre-2027-zoom-18h-20h-
+ sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6413@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270920
 SUMMARY:Formation à la Clarification Relationnelle® - Module 3 « Clarifi
@@ -208,8 +442,22 @@ URL:https://psycelium.org/evenements/clarification/14-19-septembre-2027-for
  ctuels-drome/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7567@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20270922T180000
+DTEND;TZID=Europe/Paris:20270922T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/22-septembre-2027-zoom-
+ 18h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interi
+ eur/
+URL:https://psycelium.org/evenements/sadhana/22-septembre-2027-zoom-18h-20h
+ -sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6127@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271004
 SUMMARY:Séminaire intensif 4 jours à Houdan\, à 1h de Paris
@@ -221,8 +469,64 @@ URL:https://psycelium.org/evenements/seminaires-intensifs/29-septembre-3-oc
  tobre-2027-seminaire-intensif-4-jours-qui-suis-je-a-houdan-a-1h-de-paris/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7568@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20271006T180000
+DTEND;TZID=Europe/Paris:20271006T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/6-octobre-2027-zoom-18h
+ -20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur
+ /
+URL:https://psycelium.org/evenements/sadhana/6-octobre-2027-zoom-18h-20h-sa
+ dhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7569@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20271020T180000
+DTEND;TZID=Europe/Paris:20271020T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/20-octobre-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/20-octobre-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7570@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20271103T180000
+DTEND;TZID=Europe/Paris:20271103T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/3-novembre-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/3-novembre-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:psycelium-7571@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20271117T180000
+DTEND;TZID=Europe/Paris:20271117T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/17-novembre-2027-zoom-1
+ 8h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interie
+ ur/
+URL:https://psycelium.org/evenements/sadhana/17-novembre-2027-zoom-18h-20h-
+ sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6414@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20271130
 DTEND;VALUE=DATE:20271206
 SUMMARY:Formation à la Clarification Relationnelle® - Module 4 « Couple 
@@ -236,8 +540,22 @@ URL:https://psycelium.org/evenements/clarification/30-novembre-5-decembre-2
  times-drome/
 END:VEVENT
 BEGIN:VEVENT
+UID:psycelium-7572@psycelium.org
+DTSTAMP:20260926T223845Z
+DTSTART;TZID=Europe/Paris:20271208T180000
+DTEND;TZID=Europe/Paris:20271208T200000
+SUMMARY:Sādhana - Groupe d’accompagnement et de supervision
+DESCRIPTION:Sādhana - Groupe d’accompagnement et de supervision\n\nPlus 
+ d'infos : https://psycelium.org/evenements/sadhana/8-decembre-2027-zoom-18
+ h-20h-sadhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieu
+ r/
+URL:https://psycelium.org/evenements/sadhana/8-decembre-2027-zoom-18h-20h-s
+ adhana-groupe-daccompagnement-et-de-soutien-au-cheminement-interieur/
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 UID:psycelium-6415@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280313
 SUMMARY:Formation à la Clarification Relationnelle® - Module 5 « Mémoir
@@ -253,7 +571,7 @@ URL:https://psycelium.org/evenements/clarification/7-12-mars-2028-formation
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6416@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20280606
 DTEND;VALUE=DATE:20280612
 SUMMARY:Formation à la Clarification Relationnelle® - Module 6 « Honte\,
@@ -268,7 +586,7 @@ URL:https://psycelium.org/evenements/clarification/6-11-juin-2028-formation
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6417@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20280919
 DTEND;VALUE=DATE:20280925
 SUMMARY:Formation à la Clarification Relationnelle® - Module 7 « Croyanc
@@ -283,7 +601,7 @@ URL:https://psycelium.org/evenements/clarification/19-24-septembre-2028-for
 END:VEVENT
 BEGIN:VEVENT
 UID:psycelium-6418@psycelium.org
-DTSTAMP:20260926T191502Z
+DTSTAMP:20260926T223845Z
 DTSTART;VALUE=DATE:20281128
 DTEND;VALUE=DATE:20281204
 SUMMARY:Formation à la Clarification Relationnelle® - Module 8 « Posture
